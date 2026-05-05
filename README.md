@@ -1,13 +1,18 @@
-<!-- Animated header wave -->
+<!-- Hero header (animated coding GIF + name) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Izma%20Ali&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer%20%7C%20Firebase%20%26%20REST%20API%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"/>
+  <h1 align="center" style="margin:0">Hi, I'm Izma Ali</h1>
 </p>
 
-<!-- Animated typing intro -->
 <p align="center">
   <a href="https://github.com/itz-Izma-Ali">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=720&lines=Crafting+pixel-perfect+Flutter+apps;Firebase+%2B+REST+APIs+%2B+Clean+Architecture;BLoC+%E2%80%A2+Provider+%E2%80%A2+MVVM+%E2%80%A2+GetX;Turning+Figma+into+Flutter%2C+one+pixel+at+a+time" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=02569B&center=true&vCenter=true&width=780&lines=Flutter+Developer+%7C+Mobile+App+Engineer;Firebase+%26+REST+API+Specialist;Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+BLoC+%E2%80%A2+GetX;Turning+Figma+into+Flutter%2C+one+pixel+at+a+time" alt="Typing SVG"/>
   </a>
+</p>
+
+<!-- Animated coding illustration -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="coding gif"/>
 </p>
 
 <!-- Stats badges -->
@@ -218,7 +223,11 @@ class IzmaAli extends StatefulWidget {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </p>
 
-<!-- Animated footer wave -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50"/>
+</p>
+<h3 align="center">⭐ Thanks for visiting — let's build something amazing together! ⭐</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="bottom"/>
 </p>

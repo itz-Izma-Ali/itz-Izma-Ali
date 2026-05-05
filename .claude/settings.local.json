@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(extract-text \"C:\\\\Users\\\\hp\\\\Downloads\\\\Izma Ali Resume v3.docx\")",
+      "Bash(pandoc \"C:\\\\Users\\\\hp\\\\Downloads\\\\Izma Ali Resume v3.docx\" -o /tmp/resume.md)",
+      "Read(//tmp/**)"
+    ]
+  }
+}

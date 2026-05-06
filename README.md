@@ -185,8 +185,33 @@ class IzmaAli extends StatefulWidget {
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ─────────────────────────  GITHUB ANALYTICS  ───────────────────────── -->
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"/>
+  &nbsp;GitHub Analytics&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"/>
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=02569B&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Commit+%E2%80%A2+Ship+%E2%80%A2+Repeat;Building+in+public+%2C+one+commit+at+a+time" alt="analytics tagline"/>
+</p>
+
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2"/>
+</p>
+
+<!-- Live metric badges (auto-refresh from GitHub API) -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/itz-Izma-Ali?style=for-the-badge&logo=apachespark&logoColor=FFCA28&color=02569B&labelColor=0D1117&label=TOTAL+STARS"/>
+  <img src="https://img.shields.io/github/followers/itz-Izma-Ali?style=for-the-badge&logo=github&logoColor=white&color=02569B&labelColor=0D1117&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=itz-Izma-Ali&style=for-the-badge&color=02569B&labelColor=0D1117&label=PROFILE+VIEWS"/>
+</p>
+
+<br/>
+
+<!-- Stats grid -->
 <div align="center">
 
 <table>
@@ -208,11 +233,35 @@ class IzmaAli extends StatefulWidget {
   </tr>
 </table>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=itz-Izma-Ali&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
-
 </div>
+
+<!-- Animated contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-Izma-Ali&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=02569B&line=02569B&point=FFCA28&area=true&area_color=02569B" alt="contribution activity graph" width="98%"/>
+</p>
+
+<!-- Trophy showcase -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=itz-Izma-Ali&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+  </a>
+</p>
+
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2"/>
+</p>
+
+<!-- Animated coding sidebar GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
+</p>
 
 ---
 

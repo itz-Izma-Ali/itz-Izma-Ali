@@ -185,28 +185,34 @@ class IzmaAli extends StatefulWidget {
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/itz-Izma-Ali">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-Izma-Ali&theme=tokyonight" alt="profile summary"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-Izma-Ali&theme=tokyonight&hide_border=true&background=1A1B27&ring=02569B&fire=FFCA28&currStreakLabel=02569B" alt="streak stats"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itz-Izma-Ali&theme=tokyonight" alt="stats"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-Izma-Ali&theme=tokyonight" alt="most used languages"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itz-Izma-Ali&theme=tokyonight&utcOffset=5" alt="productive time"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-Izma-Ali&theme=tokyonight" alt="profile details"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-Izma-Ali&theme=tokyonight&hide_border=true&background=1A1B27&ring=02569B&fire=FFCA28&currStreakLabel=02569B" alt="streak stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-Izma-Ali&theme=tokyonight&exclude=jupyter%20notebook" alt="repos per language"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-Izma-Ali&theme=tokyonight" alt="most committed languages"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-Izma-Ali&theme=tokyonight" alt="repos per language"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itz-Izma-Ali&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=itz-Izma-Ali&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+
+</div>
 
 ---
 

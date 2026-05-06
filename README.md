@@ -185,26 +185,27 @@ class IzmaAli extends StatefulWidget {
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;GitHub Stats
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itz-Izma-Ali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02569B&icon_color=02569B" alt="stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-Izma-Ali&theme=tokyonight&hide_border=true&background=0D1117&ring=02569B&fire=02569B&currStreakLabel=02569B" alt="streak"/>
+  <a href="https://github.com/itz-Izma-Ali">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-Izma-Ali&theme=tokyonight" alt="profile summary"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-Izma-Ali&theme=tokyonight&hide_border=true&background=1A1B27&ring=02569B&fire=FFCA28&currStreakLabel=02569B" alt="streak stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-Izma-Ali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02569B&langs_count=8" alt="top langs"/>
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=itz-Izma-Ali&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2" alt="trophies"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itz-Izma-Ali&theme=tokyonight" alt="stats"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-Izma-Ali&theme=tokyonight" alt="most used languages"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itz-Izma-Ali&theme=tokyonight&utcOffset=5" alt="productive time"/>
 </p>
 
-<!-- Animated contribution graph (snake) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itz-Izma-Ali/itz-Izma-Ali/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph"/>
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-Izma-Ali&theme=tokyonight" alt="repos per language"/>
 </p>
 
-<!-- Animated activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-Izma-Ali&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=02569B&line=02569B&point=ffffff" alt="activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itz-Izma-Ali&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 ---
